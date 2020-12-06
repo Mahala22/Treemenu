@@ -1,0 +1,14 @@
+.inputfield {
+    display: flex;
+    width: auto;
+    width: 40px;
+}
+
+.inputfield input {
+    outline: none;
+    width: 95px;
+}
+
+.inputfield button {
+    background-color: yellowgreen;
+}

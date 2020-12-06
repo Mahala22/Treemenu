@@ -1,0 +1,12 @@
+.counter {
+    text-align: center
+}
+
+.sidebar-menu {
+    margin-top: 150px;
+    list-style: none;
+    border: 1px solid black;
+    width: 800px;
+    background-color: #000000;
+    background-image: linear-gradient(147deg, #000000 0%, #2c3e50 74%);
+}

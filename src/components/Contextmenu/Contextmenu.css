@@ -1,0 +1,24 @@
+.smallmenu {
+    width: 120px;
+    text-align: center;
+    text-decoration: none;
+    box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;
+    position: fixed;
+    margin: -30px 0 0 340px;
+}
+
+.smallmenu li {
+    width: 160px;
+    margin: 0 10px 0 -40px;
+    background-color: lightgray;
+    transition: 0.3s all ease;
+    height: 30px;
+    color: rgb(70, 70, 70);
+    padding-top: 2px;
+    font-weight: 650;
+}
+
+.smallmenu li:hover {
+    background-color: rgb(255, 101, 41);
+    color: white;
+}
